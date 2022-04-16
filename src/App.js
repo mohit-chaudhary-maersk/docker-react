@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Hey there! Serving from react docker container :)
+          Hello! Now, I am serving from EBS container.
         </p>
         <a
           className="App-link"
